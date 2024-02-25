@@ -1,0 +1,18 @@
+{
+    "name": "hp-laptop/phpmvc-frame-work",
+    "autoload": {
+        "psr-4": {
+
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ironman0019",
+            "email": "emadesavi@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
