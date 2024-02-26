@@ -2,10 +2,10 @@
 
 namespace App\controllers;
 
-use App\core\Application;
-use App\core\Controller;
-use App\core\Request;
-use App\core\Response;
+use emadisavi\phpmvc\Application;
+use emadisavi\phpmvc\Controller;
+use emadisavi\phpmvc\Request;
+use emadisavi\phpmvc\Response;
 use App\models\ContactForm;
 
 class SiteController extends Controller {

@@ -1,6 +1,6 @@
 <?php
 
-use App\core\Application;
+use emadisavi\phpmvc\Application;
 
 class m002_add_password_col {
 

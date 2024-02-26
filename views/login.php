@@ -1,6 +1,6 @@
 <?php 
 
-/** @var $this \App\core\View */
+/** @var $this \emadisavi\phpmvc\View */
 
 $this->title = 'Login';
 
@@ -8,7 +8,7 @@ $this->title = 'Login';
 
 <h1>Login</h1>
 
-<?php $form =  \App\core\form\Form::begin('' , 'post') ; ?>
+<?php $form =  \emadisavi\phpmvc\form\Form::begin('' , 'post') ; ?>
 
 
 
@@ -18,6 +18,6 @@ $this->title = 'Login';
 
 <button type="submit" class="btn btn-primary mt-3">Submit</button>
 
-<?php \App\core\form\Form::end(); ?>
+<?php \emadisavi\phpmvc\form\Form::end(); ?>
 
 

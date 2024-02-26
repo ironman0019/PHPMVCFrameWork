@@ -1,7 +1,7 @@
 
 <?php 
 
-/** @var $this \App\core\View */
+/** @var $this \emadisavi\phpmvc\View */
 
 $this->title = 'Register';
 
@@ -9,7 +9,7 @@ $this->title = 'Register';
 
 <h1>Create an account</h1>
 
-<?php $form =  \App\core\form\Form::begin('' , 'post') ; ?>
+<?php $form =  \emadisavi\phpmvc\form\Form::begin('' , 'post') ; ?>
 
 <div class="row">
     <div class="col">
@@ -29,6 +29,6 @@ $this->title = 'Register';
 
 <button type="submit" class="btn btn-primary mt-3">Submit</button>
 
-<?php \App\core\form\Form::end(); ?>
+<?php \emadisavi\phpmvc\form\Form::end(); ?>
 
 

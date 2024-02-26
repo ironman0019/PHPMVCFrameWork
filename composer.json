@@ -8,11 +8,12 @@
     },
     "authors": [
         {
-            "name": "ironman0019",
+            "name": "Emad Isavi",
             "email": "emadesavi@gmail.com"
         }
     ],
     "require": {
-        "vlucas/phpdotenv": "^5.6"
+        "vlucas/phpdotenv": "^5.6",
+        "emadisavi/php-mvc-core": "^v1.0.0"
     }
 }

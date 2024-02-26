@@ -2,8 +2,8 @@
 
 namespace App\models;
 
-use App\core\DbModel;
-use App\core\model;
+use emadisavi\phpmvc\DbModel;
+use emadisavi\phpmvc\model;
 
 class RegisterModal extends DbModel {
 

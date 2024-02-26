@@ -4,8 +4,42 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d4ead5216d48ae48526fc3af4b55bdc",
+    "content-hash": "d0800e7064fd05e72da071b980ef1e2e",
     "packages": [
+        {
+            "name": "emadisavi/php-mvc-core",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core.git",
+                "reference": "f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/zipball/f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f",
+                "reference": "f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "emadisavi\\phpmvc\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Emad Isavi",
+                    "email": "emadesavi@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/issues",
+                "source": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/tree/v1.0.0"
+            },
+            "time": "2024-02-26T16:16:30+00:00"
+        },
         {
             "name": "graham-campbell/result-type",
             "version": "v1.1.2",
@@ -470,7 +504,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "emadisavi/php-mvc-core": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

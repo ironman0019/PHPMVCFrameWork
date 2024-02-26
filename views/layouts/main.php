@@ -1,7 +1,7 @@
 
 <?php 
 
-use App\core\Application; 
+use emadisavi\phpmvc\Application; 
 
 
 ?>

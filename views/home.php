@@ -1,6 +1,6 @@
 <?php 
 
-/** @var $this \App\core\View */
+/** @var $this \emadisavi\phpmvc\View */
 
 $this->title = 'Home';
 

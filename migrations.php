@@ -2,7 +2,7 @@
 
 
 use App\controllers\AuthController;
-use App\core\Application;
+use emadisavi\phpmvc\Application;
 use App\controllers\SiteController;
 
 

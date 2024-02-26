@@ -2,11 +2,11 @@
 
 namespace App\controllers;
 
-use App\core\Application;
-use App\core\Controller;
-use App\core\middlewares\AuthMiddleware;
-use App\core\Request;
-use App\core\Response;
+use emadisavi\phpmvc\Application;
+use emadisavi\phpmvc\Controller;
+use emadisavi\phpmvc\middlewares\AuthMiddleware;
+use emadisavi\phpmvc\Request;
+use emadisavi\phpmvc\Response;
 use App\models\LoginForm;
 use App\models\RegisterModal;
 

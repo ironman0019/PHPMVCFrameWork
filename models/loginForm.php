@@ -2,8 +2,8 @@
 
 namespace App\models;
 
-use App\core\Application;
-use App\core\Model;
+use emadisavi\phpmvc\Application;
+use emadisavi\phpmvc\Model;
 
 class LoginForm extends Model {
 
