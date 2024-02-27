@@ -8,7 +8,7 @@
     "packages": [
         {
             "name": "emadisavi/php-mvc-core",
-            "version": "dev-master",
+            "version": "^v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core.git",
