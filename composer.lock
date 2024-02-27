@@ -4,23 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d0800e7064fd05e72da071b980ef1e2e",
+    "content-hash": "9bb5dd51471ac23de91e562d53b9376e",
     "packages": [
         {
             "name": "emadisavi/php-mvc-core",
-            "version": "^v1.0.0",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core.git",
-                "reference": "f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f"
+                "reference": "39f12324703ec7054dc07dbe6f878351c43c7e63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/zipball/f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f",
-                "reference": "f6cc18a7f73279ea3e4f9669e1a614c84b5e6d7f",
+                "url": "https://api.github.com/repos/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/zipball/39f12324703ec7054dc07dbe6f878351c43c7e63",
+                "reference": "39f12324703ec7054dc07dbe6f878351c43c7e63",
                 "shasum": ""
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -36,9 +35,9 @@
             ],
             "support": {
                 "issues": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/issues",
-                "source": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/tree/v1.0.0"
+                "source": "https://github.com/ironman0019/Emad.Isavi-PHPMVCFrameWork-core/tree/v1.0.1"
             },
-            "time": "2024-02-26T16:16:30+00:00"
+            "time": "2024-02-27T00:17:49+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -504,9 +503,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "emadisavi/php-mvc-core": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
